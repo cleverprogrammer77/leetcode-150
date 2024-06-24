@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +19,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
@@ -31,6 +34,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
@@ -45,6 +49,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
 # Breadth-First Search
 |  |
