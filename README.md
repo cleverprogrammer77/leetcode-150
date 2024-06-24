@@ -16,18 +16,21 @@
 # Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
 # Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
 # Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
@@ -43,3 +46,7 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0975-range-sum-of-bst) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0101-symmetric-tree) |
