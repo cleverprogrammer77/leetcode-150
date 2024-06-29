@@ -85,24 +85,28 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
