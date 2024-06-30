@@ -88,6 +88,7 @@
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,13 +104,16 @@
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
