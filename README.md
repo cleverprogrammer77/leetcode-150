@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
 |  |
@@ -133,5 +134,18 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1293-three-consecutive-odds) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
