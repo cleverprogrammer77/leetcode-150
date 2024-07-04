@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
+| [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,12 +136,14 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 ## Two Pointers
 |  |
 | ------- |
