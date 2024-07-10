@@ -78,6 +78,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
 | [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
+| [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0094-binary-tree-inorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
