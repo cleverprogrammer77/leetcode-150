@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0232-implement-queue-using-stacks) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
 ## Array
@@ -188,5 +189,10 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
