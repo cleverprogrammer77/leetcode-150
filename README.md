@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
+| [0874-backspace-string-compare](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1720-crawler-log-folder) |
 ## Array
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0874-backspace-string-compare](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/cleverprogrammer77/leetcode-150/tree/master/2299-merge-nodes-in-between-zeros) |
