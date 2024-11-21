@@ -103,6 +103,7 @@
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0404-sum-of-left-leaves) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -142,6 +144,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1044-find-common-characters](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/cleverprogrammer77/leetcode-150/tree/master/1293-three-consecutive-odds) |
@@ -199,4 +202,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0232-implement-queue-using-stacks) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cleverprogrammer77/leetcode-150/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
